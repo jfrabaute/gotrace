@@ -11,7 +11,7 @@ import (
 
 func main() {
 
-	log.SetFlags(0 /*log.Ldate | log.Lmicroseconds*/)
+	log.SetFlags(0)
 
 	if cmd, err := getCommand(); err != nil {
 		log.Fatal(err)
