@@ -1,4 +1,4 @@
-libtrace
+gotrace
 ========
 A syscall trace app in go. You can think of it as a very basic "strace" implementation in go.
 
@@ -7,7 +7,7 @@ A syscall trace app in go. You can think of it as a very basic "strace" implemen
 Supported Platforms
 ===================
 
-See [libtrace](https://github.com/jfrabaute/libtrace)
+See [libtrace](https://github.com/jfrabaute/libtrace#supported-platforms)
 
 
 Installation
